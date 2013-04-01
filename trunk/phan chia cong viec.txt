@@ -1,0 +1,19 @@
+﻿các bạn nhanh chóng phân chia cụ thể công việc của đề tài đề làm
+các công việc mình có thể làm:
+ttcn:
+tạo layout, có tìm hiểu cake php các framework nhưng không đăng ký được. Nhưng mình nghĩ các framework khác cũng theo mô hình MVC nên chắc tìm hiểu lại cũng nhanh
+
+
+đồ án cnpm:
+cùng nhau thảo luận về đặc tả chức năng(ưu tiên làm cái này cái đã), ....
+còn phần code thì các bạn có thể cùng nhau code cho nó vui vì dùng svn mà(và phải đọc tài liệu).
+
+
+
+yêu cầu: tìm hiểu về jsp, servlet, c#, sqlserver, mysql
+tài liệu lập trình về sqlserver và c#(giọng giống thầy châu không =)) ): http://www.youtube.com/user/ndhcuong/videos?flow=grid&view=1
+
+
+nhận xét:
+về thực tập web: mình nghĩ tài liệu chỉ cần đọc "Using Liferay Portal 6.1" là đủ rồi.Còn bảng 5.2 bạn nào muốn code của tài liệu thì mình gửi. Còn 6.1 thì không có. Ai tìm có thì share.
+cơ sở dữ liệu chắc bắt chước cái này =)) : http://hmclip.net/cong-nghe/lap-trinh/aspnet-csharp/huong-dan-xay-dung-web-tin-tuc-cap-nhat-lai-tu-hmwebcomvn/website-tin-tuc-bai-1-huong-dan-tao-co-so-du-lieu.htm
