@@ -1,0 +1,8 @@
+B?n có th? ðãng nh?p và làm vi?c v?i Usernames và Passwords ðãng nh?p:
+
+Email address: bruno@7cogs.com
+Password: bruno
+ho?c
+
+Email address: test@liferay.com
+Password: test
