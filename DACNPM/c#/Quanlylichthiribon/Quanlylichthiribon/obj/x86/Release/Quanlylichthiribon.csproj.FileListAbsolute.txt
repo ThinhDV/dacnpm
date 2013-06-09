@@ -1,0 +1,14 @@
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\bin\Release\db_QLLT.mdf
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\bin\Release\db_QLLT_log.ldf
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\bin\Release\Quanlylichthiribon.exe.config
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\bin\Release\Quanlylichthiribon.exe
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\bin\Release\Quanlylichthiribon.pdb
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\VS2.Form1.resources
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\VS2.Frmmon.resources
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\VS2.hocphan.resources
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\VS2.Properties.Resources.resources
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\Quanlylichthiribon.exe
+C:\Users\thinh\documents\visual studio 2010\Projects\Quanlylichthiribon\Quanlylichthiribon\obj\x86\Release\Quanlylichthiribon.pdb
