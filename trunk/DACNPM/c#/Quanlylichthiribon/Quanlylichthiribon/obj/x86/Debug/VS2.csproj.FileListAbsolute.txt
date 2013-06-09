@@ -1,0 +1,9 @@
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\bin\Debug\VS2.exe
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\bin\Debug\VS2.pdb
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\obj\x86\Debug\VS2.Form1.resources
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\obj\x86\Debug\VS2.Properties.Resources.resources
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\obj\x86\Debug\VS2.exe
+C:\Users\thinh\AppData\Local\Temporary Projects\VS2\obj\x86\Debug\VS2.pdb
